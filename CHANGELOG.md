@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/julong1988/eslint-plugin-jl/compare/v1.0.0...v1.0.1) (2021-07-26)
+
+
+### Bug Fixes
+
+* **common:** 항목변경 ([f28a5e8](https://github.com/julong1988/eslint-plugin-jl/commit/f28a5e820159165365d642b8fe721731f788be76))
+
 # 1.0.0 (2021-07-26)
 
 
