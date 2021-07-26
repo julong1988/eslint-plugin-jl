@@ -6,9 +6,9 @@ export const rules = {
 
 export const configs = {
   recommended: {
-    plugins: ['jl'],
+    plugins: ['@julong/jl'],
     rules: {
-      'jl/max-params': ['warn', { max: 3 }],
+      '@julong/jl/max-params': ['warn', { max: 3 }],
     },
   },
 };

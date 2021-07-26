@@ -4,9 +4,9 @@ ESLint plugin
 #### eslintrc
 ```js
 {
-  "plugins": ["jl"],
+  "plugins": ["@julong/jl"],
   "rules": {
-    "jl/max-params" : "warn",
+    "@julong/jl/max-params" : "warn",
   },
 }
 ```
