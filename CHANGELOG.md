@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.1...v1.0.2) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([30a04e3](https://github.com/jl917/eslint-plugin-jl/commit/30a04e34c8542d3b9347674743f353ab3fcb70f0))
+
 ## [1.0.1](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.0...v1.0.1) (2021-07-26)
 
 
