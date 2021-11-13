@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/julong1988/eslint-plugin-jl.git"
+    "url": "git+https://github.com/jl917/eslint-plugin-jl.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julong1988/eslint-plugin-jl/issues"
+    "url": "https://github.com/jl917/eslint-plugin-jl/issues"
   },
-  "homepage": "https://github.com/julong1988/eslint-plugin-jl#readme",
+  "homepage": "https://github.com/jl917/eslint-plugin-jl#readme",
   "devDependencies": {
     "@babel/helper-plugin-utils": "^7.14.5",
     "@semantic-release/changelog": "^5.0.1",
