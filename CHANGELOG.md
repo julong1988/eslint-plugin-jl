@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.2...v1.0.3) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([3a5d40e](https://github.com/jl917/eslint-plugin-jl/commit/3a5d40e23c5a9bc2c142d6c42697447de70848df))
+
 ## [1.0.2](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.1...v1.0.2) (2021-11-13)
 
 
