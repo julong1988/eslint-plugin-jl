@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.4...v1.0.5) (2021-12-01)
+
+
+### Bug Fixes
+
+* token변경 재배포 ([0a61f0c](https://github.com/jl917/eslint-plugin-jl/commit/0a61f0c53d2ac5c5ebaba1747a521dc60c97dc17))
+
 ## [1.0.4](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.3...v1.0.4) (2021-12-01)
 
 
