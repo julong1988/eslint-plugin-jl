@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.3...v1.0.4) (2021-12-01)
+
+
+### Bug Fixes
+
+* multi deploy ([6b2c9f8](https://github.com/jl917/eslint-plugin-jl/commit/6b2c9f8cb8240b44ec3d0bf80db0b38e51e2d5c1))
+
 ## [1.0.3](https://github.com/jl917/eslint-plugin-jl/compare/v1.0.2...v1.0.3) (2021-11-19)
 
 

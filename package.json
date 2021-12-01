@@ -1,6 +1,6 @@
 {
   "name": "@jl917/eslint-plugin-jl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint plugin",
   "main": "./lib/index.js",
   "module": "./es/index.js",
