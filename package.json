@@ -1,5 +1,5 @@
 {
-  "name": "@jl917/eslint-plugin-jl",
+  "name": "@julong/eslint-plugin-jl",
   "version": "1.0.4",
   "description": "ESLint plugin",
   "main": "./lib/index.js",
